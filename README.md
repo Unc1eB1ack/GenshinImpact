@@ -1,0 +1,2 @@
+# GenshinImpact
+Repository for GenshinImpact
